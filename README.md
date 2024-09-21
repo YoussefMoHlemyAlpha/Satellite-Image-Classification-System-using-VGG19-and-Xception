@@ -12,7 +12,7 @@ Water
 
 ### Dataset Preprocessing
 Images resized to 80x80 pixels.
-Dataset split into training (85%) and testing (15%) subsets.
+Dataset split into training (85%) , testing (15%) and validation (15%) subsets.
 Normalized image pixel values (dividing by 255).
 
 ### 🛠️ Libraries and Tools
